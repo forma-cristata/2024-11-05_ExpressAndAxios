@@ -1,0 +1,18 @@
+{
+  "name": "hw6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SouthHills/it241-homework6nodejs-kcraycraft45.git"
+  },
+  "private": true,
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.1"
+  }
+}
