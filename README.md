@@ -2,7 +2,7 @@
 
 A simple Node.js application that fetches and displays random jokes using Express and Axios.
 
-## Features
+## Features 
 
 - Fetches random jokes from [official-joke-api.appspot.com](http://official-joke-api.appspot.com)
 - Displays setup and punchline in clean HTML format
